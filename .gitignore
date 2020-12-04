@@ -1,2 +1,4 @@
 TO-DO
 contacto.html
+logs/*
+!logs/.gitkeep
